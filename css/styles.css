@@ -42,7 +42,9 @@ body {
     line-height: 1.5;
     letter-spacing: 0.02em;
   }
-  .address-link:hover,
+  .address-link:hover {
+    color: #404bbf ;
+  }
   .address-link:focus {
     color: #404bbf  ;
   }
@@ -71,7 +73,9 @@ body {
     color: #fff;
     }
 
-  .btn:hover,
+  .btn:hover {
+    background-color: #404BBF ;
+  }
   .btn.focus {
   background-color: #404BBF ;
   }
