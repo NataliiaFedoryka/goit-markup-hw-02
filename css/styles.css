@@ -31,7 +31,7 @@ body {
   }
   .nav-link:hover,
   .nav-link:focus {
- color: #404bbF
+ color: #404bbf
   }
   .address {
     font-style: normal;
@@ -57,7 +57,7 @@ body {
     font-size: 56px; 
     line-height: 1.07;
     letter-spacing: 0.02em;
-
+    text-align: center;
   }
   button {
     cursor: pointer;}
@@ -74,7 +74,7 @@ body {
 
   .btn:hover,
   .btn:active {
-  background-color:  #404BBF;
+  background-color: #404BBF;
   }
   
   .benefit-name {
@@ -100,7 +100,6 @@ font-weight: 400;
 font-size: 16px;
 line-height: 1.5;
 letter-spacing: 0.02em;
-text-align: center;
   }
   .our-team-list {
     background-color: #FFFFFF ;
@@ -112,7 +111,6 @@ font-size: 36px;
 line-height: 1.11;
 letter-spacing: 0.02em;
 text-transform: capitalize;
-text-align: center;
 color: #2E2F42;
 
   }
@@ -121,7 +119,6 @@ font-weight: 500;
 font-size: 20px;
 line-height: 1.2;
 letter-spacing: 0.02em;
-text-align: center;
 color: #2E2F42;
   }
 .our-team--member-profesion {
@@ -130,7 +127,6 @@ font-weight: 400;
 font-size: 16px;
 line-height: 1.5;
 letter-spacing: 0.02em;
-text-align: center;
   }
 
   .sect-our-portfolio {  
@@ -148,7 +144,6 @@ letter-spacing: 0.02em;
     line-height: 1.11;
     letter-spacing: 0.02em;
     text-transform: capitalize;
-    text-align: center;
   }
   .sect-name {
     color: #2E2F42 ;
