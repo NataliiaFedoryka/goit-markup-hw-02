@@ -43,7 +43,7 @@ body {
     letter-spacing: 0.02em;
   }
   .address-link:hover,
-  .adres-link:focus {
+  .address-link:focus {
     color: #404bbf  ;
   }
   .hero-image {
@@ -57,8 +57,9 @@ body {
     letter-spacing: 0.02em;
     text-align: center;
   }
-  button {
-    cursor: pointer;}
+  .btn {
+    cursor: pointer;
+  }
 
     .btn{
       font-family: 'Roboto', sans-serif;
@@ -71,7 +72,7 @@ body {
     }
 
   .btn:hover,
-  .btn:active {
+  .btn.focus {
   background-color: #404BBF ;
   }
   
