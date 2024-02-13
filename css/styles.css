@@ -31,7 +31,7 @@ body {
   }
   .nav-link:hover,
   .nav-link:focus {
- color: #404bbf
+  color: #404bbf;
   }
   .address {
     font-style: normal;
@@ -44,12 +44,10 @@ body {
   }
   .address-link:hover,
   .adres-link:focus {
-    color: #404BBF
+    color: #404BBF ;
   }
   .hero-image {
     background-color: #2E2F42;
-    width: 1440px;
-    height: 600px;
   }
   .hero-image-name {
     color: #fff;
@@ -112,6 +110,7 @@ line-height: 1.11;
 letter-spacing: 0.02em;
 text-transform: capitalize;
 color: #2E2F42;
+text-align: center;
 
   }
   .member-name {
@@ -144,6 +143,7 @@ letter-spacing: 0.02em;
     line-height: 1.11;
     letter-spacing: 0.02em;
     text-transform: capitalize;
+    text-align: center;
   }
   .sect-name {
     color: #2E2F42 ;
